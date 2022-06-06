@@ -1,0 +1,41 @@
+body {
+    background: #fcfcfc;
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+       width: 900px;
+}
+
+#conteudo {
+    background: #ffffff;
+    padding: 10px;
+}
+
+#rodape {
+    text-align: center;
+}
+
+#menu {
+    background: #e779b9;
+    padding: 18px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+h1 {
+    color:#ac568f;
+}
+
+.img-campanha {
+    border: 7px solid #f01f99;
+    }
